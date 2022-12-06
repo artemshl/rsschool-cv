@@ -22,5 +22,4 @@ Responsible person, ready to learn something new, able to work in a team and get
 + **University:** Belarusian State Agrarian Technical University, Manager-Economist
 
 ### English
-***
-**B1**
+**B1** (I have some speaking practice, but not with native speakers)
