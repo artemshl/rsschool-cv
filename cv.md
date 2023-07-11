@@ -16,6 +16,7 @@ Responsible person, ready to learn something new, able to work in a team and get
 + HTML
 + CSS
 + Git
++ Python
 
 ## Code example:
 
