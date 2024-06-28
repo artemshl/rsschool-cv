@@ -3,6 +3,7 @@
 * __Email:__ artemshlatcki@gmail.com
 * __Telegram:__ @arch5252
 * __GitHub:__ [artemshl](https://github.com/artemshl)
+* __Discord:__ @artshl
 ## About me
 I am a highly motivated individual with a passion for technology and software development. Although I am new to the IT field, I am eager to learn and explore new technologies and programming languages. I thrive in challenging environments and am committed to continuous improvement and skill development.
 ## Skills
@@ -21,7 +22,8 @@ I am a highly motivated individual with a passion for technology and software de
 }
 ```
 ## Experience
-Did not take part in any projects related to IT
+Did not take part in any projects related to IT.
+This is my markdown [CV](https://github.com/artemshl/rsschool-cv/blob/gh-pages/cv.md)
 ## Education
 * __University:__ Belarusian State Agrarian Technical University, Manager-economist
 * __Courses:__
