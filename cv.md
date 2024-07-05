@@ -22,12 +22,11 @@ I am a highly motivated individual with a passion for technology and software de
 }
 ```
 ## Experience
-Did not take part in any projects related to IT.
-This is my markdown [CV](https://github.com/artemshl/rsschool-cv/blob/gh-pages/cv.md)
+Did not take part in any projects related to IT.This is the first one
+
 ## Education
 * __University:__ Belarusian State Agrarian Technical University, Manager-economist
-* __Courses:__
-    + RS School «JavaScript/Front-end. Stage 0 2022Q4» (not finished)
+* __Courses:__ RS School «JavaScript/Front-end. Stage 0 2022Q4» (not finished)
   
 ## Languages
 * __Russian__ - Native
